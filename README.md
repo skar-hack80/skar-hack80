@@ -4,20 +4,17 @@
 2-pkd install toilet
 
 3-git clone https://github.com/skar-hack80/skar-hack80
+
+
 **skar-hack80/skar-hack80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 #####################################################
+
 YouTube:https://youtube.com/channel/UC9lZ1luKm9i5986DHmbLG9w
+
 Telegram:@z0hma
-instagram:@0hma1 
+
+instagram:@0hma1
+ 
 my name is hmam
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
